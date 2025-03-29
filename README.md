@@ -1,4 +1,5 @@
-## Me llamo Manuel D'Assoro, tengo 23 años y me encuentro cursando la carrera Ingenieria en Sistemas de Informacion en la UTN.
+## Sobre mi:
+Me llamo Manuel D'Assoro, tengo 23 años y me encuentro cursando la carrera Ingenieria en Sistemas de Informacion en la UTN.
 
 
 # 💻 Tech Stack:
